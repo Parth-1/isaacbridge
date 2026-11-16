@@ -1,0 +1,6 @@
+patient_id,first_name,last_name,dob,phone,email,insurance_provider,legacy_note
+P-001,  jane ,DOE,01/14/1988,(408) 555-0101,JANE.DOE@EXAMPLE.COM,Delta Dental,old system export
+P-002,John,Smith,1980-03-02,408.555.0102,john.smith@example.com,Cigna,
+P-003,Jane,Doe,1988-01-14,4085550101,jane.doe@example.com,Delta Dental,possible duplicate
+P-004, Maria  Garcia ,Lopez,12-05-1992,1-408-555-0104,,MetLife,
+P-005,Bob,Lee,not-a-date,4085550105,bob@example.com,,bad date example

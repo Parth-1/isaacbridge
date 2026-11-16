@@ -1,0 +1,3 @@
+bill_number,patient_number,billed_on,total_due,payment_status
+BILL-01,V-001,2026-11-20,125.00,unpaid
+BILL-02,V-002,2026-11-21,250.00,paid

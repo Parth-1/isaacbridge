@@ -1,0 +1,5 @@
+appointment_id,patient_id,appointment_date,provider,procedure,status
+A-100,P-001,2026-11-20,Dr. Patel,Cleaning,Scheduled
+A-101,P-002,11/21/2026,Dr. Chen,Filling,confirmed
+A-102,P-999,2026-11-22,Dr. Patel,Exam,scheduled
+A-103,P-004,2026/11/25,Dr. Chen,Crown,Completed

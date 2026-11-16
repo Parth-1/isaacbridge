@@ -1,0 +1,5 @@
+invoice_id,patient_id,invoice_date,amount,status
+I-900,P-001,2026-11-20,"$125.00",unpaid
+I-901,P-002,11/21/2026,"1,250.5",paid
+I-902,P-999,2026-11-22,75.00,unpaid
+I-903,P-004,2026-11-25,-40.00,refunded

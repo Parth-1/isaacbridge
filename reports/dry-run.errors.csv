@@ -1,0 +1,6 @@
+file,line,legacy_id,error
+patients.csv,4,P-003,Potential duplicate identity fingerprint; review manually
+patients.csv,6,P-005,Unsupported date format: not-a-date
+appointments.csv,4,A-102,Patient reference not found or patient was rejected/flagged
+invoices.csv,4,I-902,Patient reference not found or patient was rejected/flagged
+invoices.csv,5,I-903,Amount cannot be negative
