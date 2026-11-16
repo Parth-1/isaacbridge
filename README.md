@@ -204,7 +204,6 @@ Set it in your terminal:
 export GEMINI_API_KEY="your-api-key"
 ```
 
-Do not commit your API key to GitHub.
 
 ### 5. Generate an AI Mapping Proposal
 
